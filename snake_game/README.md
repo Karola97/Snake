@@ -17,7 +17,7 @@ snake.py
 ## How to play the game:
 ---
 + run the game
-+ tart playing using the arrows keys
++ start playing using the arrows keys
 
 ---
 ![Snake](./images/Snake_img.jpg)
